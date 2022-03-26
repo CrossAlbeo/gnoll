@@ -84,7 +84,7 @@
 				{
 					"name": "Frightful Appearance",
 					"entries": [
-						"You are proficient in the Intimidation skill."
+						"You are proficient in the {@skill Intimidation} skill."
 					]
 				},
 				{
