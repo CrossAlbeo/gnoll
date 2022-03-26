@@ -19,11 +19,11 @@
 		"dateAdded": 1648330195,
 		"dateLastModified": 1648330195
 	},
-    "race": [
-        {
+	"race": [
+		{
 			"name": "Gnoll",
 			"source": "Gnoll",
-            "hasFluff": true,
+			"hasFluff": true,
 			"ability": [
 				{
 					"str": 2,
@@ -39,11 +39,11 @@
 				"Unarmed Strike",
 				"Monstrous Race"
 			],
-            "skillProficiencies": [
-                {
-                    "intimidation": true
-                }
-            ],
+			"skillProficiencies": [
+				{
+					"intimidation": true
+				}
+			],
 			"entries": [
 				{
 					"name": "Age",
@@ -164,9 +164,9 @@
 				{
 					"common": true,
 					"gnoll": true,
-                    "abyssal": true
+					"abyssal": true
 				}
 			]
 		}
-    ]
+	]
 }
